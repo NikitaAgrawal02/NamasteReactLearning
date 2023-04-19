@@ -1,0 +1,27 @@
+1. What is Emmet?
+Answer: Emmet is a plugin for various text editors and IDE's that helps we developer to write HTML and CSS code more quickly and efficently.
+For eg: Instead of complete HTML code you can write HTML5 in VS code.
+
+2. Difference between library and framework?
+Answer: Library is a collection of prewritten code that can be used by developer for performing specific tasks. Framework is overall architecture of an application, that includes design, organization and flow. Framework includes set of prewritten code libraries.
+
+3. What is CDN? Why do we use it?
+Answer: CDN or Content Delivery Network is a distributed network of servers that work together to provide fast and efficent delivery of content over the internet.
+
+4. Why is React known as React?
+Answer: React comes from the idea of reacting to changes in the state of an application.
+
+5. What is cross origin in script tag?
+Answer: Cross origin script is a script that is loaded from a Different domain or subdomain than the requesting website.
+
+6. What is difference between react and reactdom?
+Answer: React and ReactDOM are two seperate packages that work together to enable the creation of user interfaces in the browser. React provides the core library from builing the components, while ReactDOM provides the integration with the browser.
+
+7. What is the difference between react.development.js and react.production.js files in CDN?
+Answer: 'react.development.js' file is meant for development and debugging purpose, while the 'react.production.js' file is meant for production use, where performance and file size are more critical.
+
+8. What is async and defer?
+Answer: 'async' and 'defer' attributes are used in HTML script tags to control the script is loaded and executed.
+'async' attribute: When we add async attribute in script tag that means script can be loaded asynchronously while the rest of the page continues to load. But the script will be executed as it is downloaded, even if the rest of the page is not loaded.
+'defer' attribute: When we add defer attribute in the script tag that means script can be loaded while page loads but the execution of the script will be done after complete page loads. This improves the page performance.
+
